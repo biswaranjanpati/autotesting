@@ -1,0 +1,23 @@
+{
+  "name": "autotesting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/biswaranjanpati/autotesting.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/biswaranjanpati/autotesting/issues"
+  },
+  "homepage": "https://github.com/biswaranjanpati/autotesting#readme",
+  "dependencies": {
+    "a11y-checker": "^2.2.0"
+  }
+}
